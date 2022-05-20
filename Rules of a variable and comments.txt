@@ -1,6 +1,7 @@
 Rules of a variable:
 -------------------------
 
+
 1) A variable is mostly on left side.
 
 2) Variables are used for storing the values.
