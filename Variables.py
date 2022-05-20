@@ -1,7 +1,7 @@
 """
 Name: Raju
 Date: 6th May 2022
-Day: Friday
+Day:  Friday
 Time: 3:30-4:30PM
 File Description: About Variables
 """
