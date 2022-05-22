@@ -27,7 +27,7 @@ File Description: About Variables
 # print(t_4_d)
 # print(ABC) # NameError: name 'ABC' is not defined
 
-''' The following are the rules which are not valid '''
+"""The following are the rules which are not valid """
 """
 .a=5
 @=7
