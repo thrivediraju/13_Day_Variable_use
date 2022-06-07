@@ -7,4 +7,3 @@ Rules Of Variables And Comments
 Image File Of Variable And Comment
 
 
-j
